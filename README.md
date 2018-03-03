@@ -1,6 +1,9 @@
 # Introduction
 This repository hosts a bounded Post correspondence problem solver.
 
+# Running
+Ensure you have installed [treelib](https://github.com/caesar0301/treelib)
+
 # Theory
 **Definition:** A <i>prefix</i> of a string S is some string S' that occurs at the beginning of S.
 
